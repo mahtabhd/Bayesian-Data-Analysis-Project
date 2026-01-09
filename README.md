@@ -46,13 +46,6 @@ Model comparison is performed using **PSIS-LOO**, and robustness is assessed via
 - Predictor effects are largely **consistent across groups**, with limited slope variation.
 - All main conclusions are **robust to prior and likelihood perturbations**.
 
-## Repository Structure
-.
-├── project_code.qmd # Full analysis (Quarto / R)
-├── BDA.pdf # Final project report
-├── nhgh.rda # Processed dataset (not public)
-└── README.md
-
 
 ## Requirements
 
